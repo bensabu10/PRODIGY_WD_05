@@ -4,7 +4,7 @@ Preview of the Weather App
 
 Features Current Weather: Get real-time weather updates for any city. Forecast: View a detailed weather forecast for the upcoming days. Location-Based: Automatically detect your location for instant weather updates. Search Functionality: Easily search for weather information in any city. Installation To get started with the Weather App, follow these instructions:
 
-Clone the Repository: bash Copy code git clone https://github.com/yourusername/weather-app.git Navigate to the Project Directory: bash Copy code cd weather-app Install Dependencies: bash Copy code npm install Usage Start the Application:
+Clone the Repository: bash Copy code git clone https://github.com/bensabu10/PRODIGY_WD_05/edit/main/README.md Navigate to the Project Directory: bash Copy code cd weather-app Install Dependencies: bash Copy code npm install Usage Start the Application:
 
 bash Copy code npm start Access the App: Open your browser and go to http://localhost:3000.
 
